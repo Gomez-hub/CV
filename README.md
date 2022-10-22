@@ -4,7 +4,7 @@
 <body>
     <html lang="es-co">
         <meta charset="UTF-8">
-        <title>Curriculum Vitae</title>
+        <title>Curriculum Vitaee</title>
         <center>
             <h2>Miguel Gómez</h2>
 
